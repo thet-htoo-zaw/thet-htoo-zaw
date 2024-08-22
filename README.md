@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="coding" width="270" src="gifs/coding.gif">
+  <img alt="coding" width="270" src="gifs/penguin-typing.gif">
 </div>
 <h1 align="center">Hi 👋, I'm Thet Htoo Zaw</h1>
 <h3 align="center">A passionate full stack developer</h3>
